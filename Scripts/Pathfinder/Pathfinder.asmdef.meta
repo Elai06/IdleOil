@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/_Project/Scripts/Pathfinder/Pathfinder.asmdef.meta
+guid: 6e2cd17386946f94e802948fb51e9c2b
+========
+guid: e5513086012420f4f97e35a662918c10
+>>>>>>>> ef0fa5a ([RFIT-32] Configs):Assets/_Project/Scripts/Configs/Configs.asmdef.meta
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

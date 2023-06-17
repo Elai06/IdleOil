@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/_Project/Prefabs/OilProducing/OilProducingLevel0.prefab.meta
+guid: 78b9778924ad54f4888e0f43802a84ff
+PrefabImporter:
+=======
+guid: 19ef9bafa47c1d24aa585c966e1c245e
+folderAsset: yes
+DefaultImporter:
+>>>>>>> 83c9704 ([RFIT-73] create prefab Piston and logic for animation):Assets/_Project/Scripts/Animations.meta
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
